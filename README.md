@@ -34,8 +34,11 @@
   
 - **REGONow** (UIKit, Rxswift, MVVM-C) : 드라이빙 콘텐츠 플랫폼 (2023.03. ~ 2023.09.)
 
+<br />
 
-### Activity
+### 🏃‍♂️‍➡️ Activity
+
+---
 
 - Apple Developer Academy Tech Forum 메인테이너
 
