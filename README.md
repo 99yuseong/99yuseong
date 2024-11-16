@@ -1,29 +1,37 @@
-### Hi there 👋
+### Hi, I'm Yuseong Nam👋
 
-<!--
-**99yuseong/99yuseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Career
 
-Here are some ideas to get you started:
+---
+**🏆 Apple Swift Student Challenge Winner '24**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🏆 Code Drop Hackathon - Highlight Team** (2024.06.14. ~ 2024.06.15.)
 
-![iOS](https://img.shields.io/badge/ios-000000.svg?&style=for-the-badge&logo=ios&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/uikit-2396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white)
-![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white)
+**🍎 Apple Developer Academy** @ POSTECH 3rd (2024.03 ~ )
 
+**🏢 REGO** - 드라이빙 콘텐츠 플랫폼 Tech 리드 & iOS 개발 (2023.03 ~ 2023.09.)
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+<br />
+
+### 📱 Project
+
+---
+
+#### iOS App Personal
+
+- [**Myot-si-ya**](https://github.com/99yuseong/myot-si-ya) (SwiftUI): 한글 시계, (2024.01.01 ~ 2024.02.24)<br />
+`Swift Student Challenge 2024 Winner`
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99yuseong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+#### iOS App Team
+
+- [**MyBirdy**](https://apps.apple.com/kr/app/%EB%A7%88%EC%9D%B4%EB%B2%84%EB%94%94/id6737018659) (SwiftUI) : CBT기반 엄마의 감정일기 (2024.09.01. ~ )
+  
+- **Hit the Spot** (SwiftUI, MVI) : 약속오는 친구 찾기 앱, (2024.06.10. ~ 2024.08.20.)
+  
+- [**PicCharge**](https://github.com/DeveloperAcademy-POSTECH/2024-MC2-M09-PoHyoja) (SwiftUI, Firebase) : 부모 자식 연락 솔루션, (2024.04.29. ~ 2024.05.31.)
+
+- [**꺾을 시간**](https://github.com/Code-Drop-DevAcademy/2024-Team-3) (SwiftUI) : 손목 스트레칭 앱, (2024.06.14. ~ 2024.06.15.) <br /> `Code Drop Hackathon - HighLight Team`
+  
+- **REGONow** (UIKit, Rxswift, MVVM-C) : 드라이빙 콘텐츠 플랫폼 (2023.03. ~ 2023.09.)
+
