@@ -6,7 +6,7 @@
 
 **🍎 Apple Developer Academy** @ POSTECH 3rd (2024.03 ~ )
 
-**🏢 REGO** - 드라이빙 콘텐츠 플랫폼 Tech 리드 & iOS 개발 (2023.03 ~ 2023.09.)
+**🏢 Team REGO** - 드라이빙 콘텐츠 플랫폼 Tech 리드 & iOS 개발 (2023.03 ~ 2023.09.)
 
 <br />
 
