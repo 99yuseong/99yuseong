@@ -35,7 +35,7 @@
 - **PicCharge**
 [**[repo]**](https://github.com/DeveloperAcademy-POSTECH/2024-MC2-M09-PoHyoja)
 [**[AppStore]**](https://apps.apple.com/kr/app/piccharge-픽챠/id6739777922)
-(SwiftUI, Firebase) : 부모 자식 연락 솔루션, (2024.04.29. ~ 2024.05.31. && 2025.01.02. ~ 업데이트 중)
+(SwiftUI, Firebase) : 부모 자식 연락 솔루션, (2024.04.29. ~ 업데이트 중)
 
 - **꺾을 시간**
 [**[Repo]**](https://github.com/Code-Drop-DevAcademy/2024-Team-3)
