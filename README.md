@@ -34,7 +34,7 @@
 
 - **틈틈독서**
 [**[AppStore]**](https://apps.apple.com/kr/app/틈틈독서/id6745096972)
-(UIKit, SwiftUI) : 독서 문장 수집 카메라 솔루션, (2025.04.29. ~ 업데이트 중)
+(UIKit, SwiftUI) : 독서 문장 수집 카메라 솔루션, (2025.04.29. ~ 업데이트 중) `독서 앱 스토어 2위 - 2.5K 다운로드, 수집된 문장 10K 돌파`
 
 - **PicCharge**
 [**[repo]**](https://github.com/DeveloperAcademy-POSTECH/2024-MC2-M09-PoHyoja)
