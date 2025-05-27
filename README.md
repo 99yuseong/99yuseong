@@ -32,6 +32,10 @@
 
 #### iOS App Team
 
+- **틈틈독서**
+[**[AppStore]**](https://apps.apple.com/kr/app/틈틈독서/id6745096972)
+(UIKit, SwiftUI) : 독서 문장 수집 카메라 솔루션, (2025.04.29. ~ 업데이트 중)
+
 - **PicCharge**
 [**[repo]**](https://github.com/DeveloperAcademy-POSTECH/2024-MC2-M09-PoHyoja)
 [**[AppStore]**](https://apps.apple.com/kr/app/piccharge-픽챠/id6739777922)
