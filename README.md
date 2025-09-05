@@ -1,8 +1,8 @@
 <img width="300" height="300" alt="profile" src="https://github.com/user-attachments/assets/34e58104-737b-4ee0-aa01-f97e7f821341" />
 
-## Yuseong Nam
+## Nam Yuseong
 
-사용자를 먼저 생각하는 iOS 개발자 남유성입니다.
+UX를 좋아하는 iOS 개발자 남유성입니다.
 
 - 🤔 항상 사용자 경험을 고민합니다.
 - 🛠️ 시도하고 꾸준히 개선하는 과정을 중시합니다.
